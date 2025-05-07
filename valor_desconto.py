@@ -29,4 +29,3 @@ elif opcao == 4:
 else:
     print("Opção inválida. Tente novamente.")
 # O programa calcula o valor do desconto e o valor final do produto com base na opção de pagamento escolhida pelo usuário.
-
