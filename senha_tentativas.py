@@ -6,7 +6,7 @@ while tentativas < 3:
         print("Senha correta!")
         break
     else:
-        tentativas += 1
-        print(f"Senha incorreta! Você tem {3 - tentativas} tentativas restantes.")
-if tentativas == 3:
-    print("Número máximo de tentativas atingido. Acesso negado.")
+         tentativas += 1
+         print(f"Senha incorreta! Você tem {3 - tentativas} tentativas restantes.")
+    if tentativas == 3:
+        print("Número máximo de tentativas atingido. Acesso negado.")
