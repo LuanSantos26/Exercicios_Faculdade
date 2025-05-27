@@ -14,4 +14,4 @@ for fruta in lista[0].split(', '):
    #     print(f'{fruta} foi removida da lista.')
  #   else:
 #        print(f'{fruta} não está na lista.')
-        
+ 

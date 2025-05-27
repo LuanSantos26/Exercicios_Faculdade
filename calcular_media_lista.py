@@ -1,0 +1,1 @@
+#calcule a media aritimetica dos elementos da lista a seguir:notas=[7,8,6,6,10]
